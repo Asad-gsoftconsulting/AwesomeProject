@@ -15,6 +15,9 @@ function Aboutscreen() {
 
   useEffect(()=>{
     console.log('alwyz')
+    console.log('alwyz')
+    console.log('alwyz')
+    console.log('alwyz')
 
 
   })
